@@ -44,4 +44,4 @@
 这个公众号中，我每天都会推送一些精选案例，同时也会有很多的互动交流。
 喜欢在手机端阅读的同学可以考虑下。
 
-[](!./assets/wechat_qrcode.jpg)
+![](./assets/wechat_qrcode.jpg)
